@@ -1,0 +1,21 @@
+{
+  "name": "circleplayer",
+  "version": "1.0.1",
+  "description": "irclePlayer for the jPlayer Plugin (jQuery)",
+  "main": "js/circle.player.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisballen/circleplayer.git"
+  },
+  "keywords": [
+    "jquery",
+    "org-chart"
+  ],
+  "author": "wesnolte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisballen/circleplayer/issues"
+  },
+  "homepage": "https://github.com/chrisballen/circleplayer"
+}
